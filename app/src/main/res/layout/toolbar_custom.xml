@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/tbCenter"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="@drawable/bg_gradient"
+	android:navigationIcon="@drawable/ic_back"
+	android:theme="@style/DesignSystem.Toolbar">
+
+	<TextView
+		android:id="@+id/tvTitle"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:textColor="@color/colorWhite"
+		tools:text="Title" />
+</Toolbar>

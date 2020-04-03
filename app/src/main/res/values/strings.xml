@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MarketItiPlace</string>
+    <string name="app_name">HackathonApp</string>
+	<string name="subtraction_signal">-</string>
+	<string name="digit_zero">0</string>
+	<string name="sum_signal">+</string>
+	<string name="login">Login</string>
 </resources>
